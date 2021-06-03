@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the knights, gentlemen, citizens, freeholders, and inhabitants of the county of Surrey, and the borough of Southwark, to the Right Honourable both Houses of Parliament of England assembled at Westminster. Presented on Tuesday the 16 of May. 1648. VVith a letter from the said county to the Lord Major, aldermen, and commons of the City of London, in Common-Councell assembled. Likewise the petition of the county of Essex, and the answer of both Houses to the same. With their letter to the Lord Major, aldermen, and commons of the City of London in Common-councell assembled. May 16. 1648.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86805</idno><idno type="EEBO-CITATION">99862764</idno>
+  <idno type="VID">114940</idno>
+  <idno type="EEBO-PROQUEST">2240940991</idno>
+  
+            <idno type="STC">Wing H3527</idno>
+            <idno type="STC">Thomason E442_17</idno>
+            <idno type="STC">ESTC R202511</idno>
+            <idno type="PROQUEST">99862764</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862764e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86805)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114940)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E442[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the knights, gentlemen, citizens, freeholders, and inhabitants of the county of Surrey, and the borough of Southwark, to the Right Honourable both Houses of Parliament of England assembled at Westminster. Presented on Tuesday the 16 of May. 1648. VVith a letter from the said county to the Lord Major, aldermen, and commons of the City of London, in Common-Councell assembled. Likewise the petition of the county of Essex, and the answer of both Houses to the same. With their letter to the Lord Major, aldermen, and commons of the City of London in Common-councell assembled. May 16. 1648.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Requesting a resolution of the Civil War.</note>
+                  <note>The replies are dated 4 May 1648.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+               <term type="geographic_name">Surrey (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114940:1"/>
+            <p>The Humble PETITION OF THE Knights, Gentlemen, Citizens, Free<g ref="char:EOLhyphen"/>holders, and Inhabitants of the County of SURREY, and the Borough of SOUTHWARK, To the Right Honourable both Houses of Parliament of <hi>England</hi> assembled at <hi>Westminster.</hi>
+            </p>
+            <p>Presented on Tuesday the 16 of <hi>May.</hi> 1648.</p>
+            <p>VVith a Letter from the said County to the Lord Major, Aldermen, and Commons of the City of <hi>London,</hi> in Common-Councell Assembled.</p>
+            <p>Likewise the Petition of the County of <hi>Essex,</hi> and the answer of both Houses to the same. With their Letter to the Lord Major, Aldermen, and Commons of the City of <hi>London</hi> in Common-councell assembled.</p>
+            <p>May 16. 1648.</p>
+            <p>
+               <hi>London,</hi> Printed 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:114940:2"/>
+            <pb facs="tcp:114940:2"/>
+            <head>To the Right honourable both Houses of Parliament of <hi>England,</hi> assembled at <hi>Westminster.</hi>
+            </head>
+            <head type="sub">The humble Petition of the Knights, Gentlemen, Free-holders, and Inhabi<g ref="char:EOLhyphen"/>tants of the County of Surrey; Together with the Gentlemen, Citizens, Free-holders, and free born Subjects of the Borough of Southwarke.</head>
+            <p>YOur Petitioners having earnestly besought of God, and ex<g ref="char:EOLhyphen"/>pected many yeers from your wisdoms and counsell a full and comfortable redresse of the grievous miseries of this Kingdome (which blessings have hitherto sailed us through the ma<g ref="char:EOLhyphen"/>nifold sinnes of us all, and divers miscarryings:) We, amongst other free born Subjects of this Realm, humbly crave leave to expresse our pious affections to the Publique good, and earnest desires for the preventing the continuance and increase of future evils, as fol<g ref="char:EOLhyphen"/>loweth:</p>
+            <p>That the Kings Majesty, our onely lawfull Soveraigne, may be restored to his due Honour, and just Rights, according to our Oathes of <hi>Supremacy</hi> and <hi>Allegiance,</hi> which hath been taken by us in the sight of God; and from which no Power on earth can absolve us. And therefore our soules desire, and consciences do groan.</p>
+            <p>First that his Majesty may forthwith be established in his Throne according to the Splendor of his Royall Ancestors. And that his Majesty may for the present with Honour and safety come unto the Parliament at <hi>Westminster,</hi> to enter with them into a Personall Trea<g ref="char:EOLhyphen"/>ty for composing all former differences, and the granting all lawfull desires.</p>
+            <p>That we all the free born Subjects of this Realm may be governed no otherwise then by the known Laws and Statutes now in force in this Kingdom.</p>
+            <p>That speedy and grave wisdom may prevent the miserable and unnaturall Wars beginning again in this distracted and exhausted Kingdom, And to prevent by saire treaty the forces to be brought in by our neighbour Kingdom, And from other nations not unlike
+<pb n="2" facs="tcp:114940:3"/>to invade us: Which we conceive (through the mercy of God) may be soon effected by timely providing for the premisses.</p>
+            <p>That not only the Ordinances made of late by the goodnes and wisdom of the two houses of Parliament against the unsupportable and most wastfull burden of free quartering of Souldiers may be duly executed, But that forthwith order may be taken (as becom<g ref="char:EOLhyphen"/>meth Patriots that love their Country) for the disbanding of all Armies (having their due arrears payed) that we may enjoy without ter<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or and jealousies a blessed and long looked for peace.</p>
+            <div type="resolutions">
+               <p>
+                  <hi>THe 8<seg rend="sup">th</seg> of</hi> May <hi>1648. It was resolved at</hi> Darking <hi>upon the meeting of the Petitioners there, as followeth:</hi>
+               </p>
+               <list>
+                  <item>
+                     <hi>1.</hi> That five hundred Copies of the said Petition should be forthwith printed, and sent unto the Gentlemen and Petitioners of the said County.</item>
+                  <item>
+                     <hi>2.</hi> That Tuesday the <hi>16<seg rend="sup">th</seg>
+                     </hi> of May it is agreed that the Petitioners should meet at or upon Putney beath at eight of the clock in the morning.</item>
+                  <item>
+                     <hi>3.</hi> Its desired that those who shall subscribe the said Petition would shew themselves in person inpresenting of it, if it may stand with their conv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>nience.</item>
+                  <item>
+                     <hi>4.</hi> Its desired, That all high Counstables in their severall Divisions and Hundreds should make their returnes of subscriptions of the said Petition ingrossed in Parchment, one for the House of Lords and an other for the House of Commons; And that they be delivered unto M. <hi>Jonn Evershed</hi> or to such person or persons as be shall appoint; And that the Originall coppies be left with the said high Constables, or fuch as they shall appoint, And the charges of the said ingrossements are resolved shall be paid by the Petitioners at their meeting aforesaid.</item>
+               </list>
+            </div>
+            <div type="letter">
+               <pb n="3" facs="tcp:114940:3"/>
+               <head>To the Right honourable the Lord Major, the Aldermen and Commons, in Common councell assembled.</head>
+               <opener>
+                  <salute>My Lord, Knights, and Gentlemen,</salute>
+               </opener>
+               <p>VVE the free born Subjects of the County of Surrey, with the free-men and free born Subjects of the Borough of Southwark, having unani<g ref="char:EOLhyphen"/>mously agreed together in the framing, and are presenting of a Petition to the Right Honourable the Houses of Parliament, our intentions therein ex<g ref="char:EOLhyphen"/>pressed are as followeth; and we are confident you will not have a prejudi<g ref="char:EOLhyphen"/>cate opinion of us in this our petitionary was of proceeding, but sympathize and pity our distressed condition. Its visible to every eye what our sufferings have been, together with this whole Kingdom, and how the treasure of the Kingdom is very much exhausted, the poor Subject discomfited, and langui<g ref="char:EOLhyphen"/>shing under the burthen of Free quarter, Excise, and divers other Taxes and Contributions, and nothing yet offered in satisfaction, how the true Prote<g ref="char:EOLhyphen"/>stant Religion shall be established, the basses of our hoped for peace: nor, how the just Rights and Liberties of the King, Parliament, and Subjects, and the ancient and known Laws of the Realm, and government may be setled, which hath been long looked for, and which hath enforced us to look back upon the government of our gracious Soveraigne, and in his government both before &amp; since the sitting of the honourable houses of Parliament, And whereas this honourable City was pleased to permit the Petitioners of Essex with peace and safety to passe through the City for the delivery of their Petition, we likewise free born Subjects and Petitioners of the County of Surrey and Burrough of Southwark do humbly crave the like favour: That so by the blessing of God upon our faithfull and just endeavours we may en<g ref="char:EOLhyphen"/>joy our long looked for peace and liberty.</p>
+               <closer>
+                  <dateline>
+                     <hi>Putney,</hi>
+                     <date>
+                        <hi>May</hi> 16. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+         <div type="petition">
+            <pb n="4" facs="tcp:114940:4"/>
+            <head>To the Right honourable both Houses of the Parliament of <hi>England</hi> assembled at <hi>Westminster.</hi>
+            </head>
+            <head type="sub">
+               <hi>The humble Petition of the Grand Jury at the Assizes holden at Chelmsford for the county of Essex, the</hi> 22 <hi>of March</hi> 1647. <hi>as it was presented to hoth the Honourable Houses of Parliament the</hi> 4 <hi>of May</hi> 1648. <hi>by divers thousands of Knights, Gentlemen, and Free-holders of the same County.</hi>
+            </head>
+            <opener>Humbly sheweth,</opener>
+            <p>THat your Petitioners tak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng into their serious (yet sad) consi<g ref="char:EOLhyphen"/>derations the great distractions and calamities of this whole Kingdome, and b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing also very sensible by wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ull experience of the great and many pressures and grievances of their own particular county, and taking notice also with all thankfulnesse of the ho<g ref="char:EOLhyphen"/>nourable resolutions of this house, in giving encouragement to the just desires of the oppressed in a petitionary way (the undoubted right of the Subject) and the very life of their liberty it selfe, out of a tender fel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow feeling of others, and the deep sence of their own miseries, have made this humble (yet necessary addresse to this honourable House) conceiving both the present and future happi<g ref="char:EOLhyphen"/>nes of themselves and the whole kingdom, to be concentred in these their ensuing desires.</p>
+            <p>And first, considering that it is impossible the sad and direfull effects of this late war should cease without the principall causes be first taken away and removed. And considering likewise his Ma<g ref="char:EOLhyphen"/>jesties absence from his two houses of Parliament hath been one main cause of increasing jealousies, and continuing a misunderstan<g ref="char:EOLhyphen"/>ding betwixt him and his great counsell (the originall and source of our unhappinesse,) And humbly conceiving that a timely and ready concession to his Majesty for a personall Treaty with his high court of Parliament may prove the most effectuall and speedy means for the removing of all such misapprehensions and fear<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, which are yet the unhappy obstacles of the peace and quiet of thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Kingdom.</p>
+            <p>Secondly, considering the excessive charges, and almost into<g ref="char:EOLhyphen"/>lerable burthen this c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unty with the rest of the Kingdom doe at this present groan under, which although for a time they may po<g ref="char:EOLhyphen"/>ssibly beare with patience, yet if continued, will certainly and in<g ref="char:EOLhyphen"/>evitably ruine themselves, their families, and posterities. And withall considering that the most hopefull means of setling a well
+<pb n="5" facs="tcp:114940:4"/>grounded peace, and the surest way of preventing suture troubles, consists in the due satisfaction of all just complaints and interests. And that this army who have faithfully discharged their trust to your selves and Kingdom, do much complain for want of their Arrears.</p>
+            <p>We therefore your humble Petitioners doe most earnestly de<g ref="char:EOLhyphen"/>sire that you would be pleased to take these premises into your grave and serious considerations, and to condescend to the Royall intimations of his Majesty for a personall Treaty; to expedite such a course which in your wisdoms you shall think most meet for the satis-faction of the arrears of the Army, with a disbanding of the same.</p>
+            <p>
+               <hi>And your petitioners shall pray,</hi> &amp;c.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>Die Jovis, <hi>4</hi> May. <hi>1648.</hi>
+                        </date>
+                     </dateline>
+                  </opener>
+                  <p>The Lords have commanded me to return thanks to the County of Essex for the good affections which they have expressed to the Parliament and Kingdom; they have likewise commanded m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to let you know, That they will take your Petition into their se<g ref="char:EOLhyphen"/>rious and speedy consideration, and do assure you that they will not be wanting to contribute their utmost endeavour<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> for the removing of the present pressures and burthens, and for the com<g ref="char:EOLhyphen"/>posing of these unhappy differences, so as the Kingdom may enjoy a safe and well grounded peace.</p>
+                  <closer>
+                     <signed>J. Brown, Cler. Parliamentorum.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>Die Jovis,</hi> 4. <hi>May.</hi> 1648.</date>
+                     </dateline>
+                  </opener>
+                  <p>THe House being informed that divers Gentlemen of the Coun<g ref="char:EOLhyphen"/>ty of Essex were at the doore; desiring to preferre a Petition to the house, they were called in, and Major <hi>Stephen Smith</hi> did present a Petition, the which (the Petitioners being with-drawn) was read.</p>
+                  <p>The Petitioners were again called in, and M. Speaker by com<g ref="char:EOLhyphen"/>mand of the House, upon Vote upon the Question, gave them this answer, That this house doth take notice of the great service, and good affections of that County to the Parliament, and are very confident they will so continue. As to their Petition, the house is now in debate concerning the speedy settlement of the Kingdom, and do not doubt but what they shall conclude thereupon, will give satisfaction to the said County, and to all the well affected people of the Kingdom.</p>
+                  <closer>
+                     <signed>H. Essyng, Cler. Parl. D. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:114940:5"/>
+            <head>To the right H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nourable the Lord Major, Aldermen and Common councell in Common-councell assembled, <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>My Lord, Knights, and Gentlemen,</salute>
+            </opener>
+            <p>THe deep sence of our particular miseries, together with a tender fellow-feeling of the sad and distempered condition of this famous. City, and also of the whole Kingdom, hath upon divers serious and mutuall debates, so far prevailed wirh us, a great and considerable part of this County of Essex, as humbly to make our addresses in a petitionary way to the honourable Hou<g ref="char:EOLhyphen"/>ses of Parliament the 4th of this instant May: The sum of our desire is briefly thus, That the King our gracious Soveraigne may come with honour and safety to treat with his two Houses of Parliament, the onely probable way now lest us; whereby the true Protestant Religion, and all the just Rights of the King, Parliament, and Subjects, and the ancient and known Laws of this Realm &amp; government, may by the blessing of God upon their joynt consents in Parliament, be once more revived and re-established, to the glory of God, and comfort of all honest men; And though we cannot doubt of an unani<g ref="char:EOLhyphen"/>mous compliance from the greatest part of this City, and of the whole King<g ref="char:EOLhyphen"/>dom, in this our last refuge; yet for the better satisfaction, and to clear our selves from the mis-interpretations of such as are of a contrary opinion. We do ingeniously declare, First, that our Addresses shall be w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th all civility and respect to the Parliament and City, free from any intent of disturbing the peace and quiet of either; but on the contrary, with an hearty desire to pre<g ref="char:EOLhyphen"/>vent the effusion of so much blood as will probably be shed, if not by a Per<g ref="char:EOLhyphen"/>sonall treaty timely prevented, which all men may discern which look not through spectacles of particular interests. Secondly we do not carelesly passe by any Ordinance of Parliament published unto the Kingdom, but do well remember and have very seriously considered of that particular Vote against a personall treaty, and the reason upon which it is grounded, and we have further compared it with three former Declarations, where in the first we were told, That the separation of his Royall person from his Parliament was the originall of our unhappinesse: In the second, when we assisted in so large a proportion both of men and money, That the chiefe intent of raising the Army, was to bring the King from his evill Councell in honour and safety to his Parliament. In the third, when we groaned under the burden, That it was impossible ever to have a safe and wel-grounded peace without his Majesties personall concurrence in Parliament. When we lo k upon the weighty rea<g ref="char:EOLhyphen"/>sons expressed in the said Declarations we are well assured, That whosoever well considers what it hath cost to procure a Personall treaty, cannot justly blame any man for desiring of it: And upon these considerations we are en<g ref="char:EOLhyphen"/>couraged to proceed with confidence that the honourable Houses will grant our requests, which we conceive reasonable, whereas to our understanding no apparent prejudice can ensue thereby. Thus humbly desi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing the blessing of Almighty God to assist us in t ese our just desires we commit you to his pro<g ref="char:EOLhyphen"/>tection.</p>
+            <closer>
+               <dateline>
+                  <hi>Stratford Lancton,</hi>
+                  <date>
+                     <hi>May</hi> 4. 1641.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
